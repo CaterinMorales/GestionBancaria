@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/fondo.jpg");
+    z-index: -1;
+}
+
+.transparente{
+opacity: 0.8;
+-moz-opacity: 0.8;
+filter: alpha(opacity=80);
+-khtml-opacity: 0.8;
+}
